@@ -11,6 +11,7 @@ h1{
   font-size:75px;
   font-family: Comic Sans MS;
   align-items: center;
+  padding-top: 4px;
 }
 .jumbotron{
   color: lightblue;
@@ -23,4 +24,7 @@ p{
 h{
   font-size: 24px;
   font-style: oblique;
+}
+li{
+  font-size: 25px;
 }
