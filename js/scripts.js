@@ -14,7 +14,7 @@ var output = function(number) {
  return array;
 };
 
-// USER INTERFACE LOGIC
+
 $(document).ready(function() {
  $("form#game").submit(function(event) {
    $("#results").empty();
