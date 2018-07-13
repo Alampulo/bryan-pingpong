@@ -2,4 +2,15 @@ body{
   border-color: black;
    box-sizing: border-box;
    box-shadow: blue;
+   padding: 30px;
+    border: 10px solid blue;
+    height:100%;
+    width: 100%:
+}
+h1{
+  font-size: 45px;
+  font-family: Comic Sans MS;
+}
+.jumbotron{
+  color: lightblue;
 }
