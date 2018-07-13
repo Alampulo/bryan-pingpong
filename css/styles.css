@@ -41,5 +41,8 @@ label{
   font-size: 25px;
 }
 button{
-  font-size: 40px;
+  font-size: 20px;
+}
+.form-horizontal{
+  font-size: 25px;
 }
