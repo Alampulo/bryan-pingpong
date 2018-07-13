@@ -10,10 +10,15 @@ body{
 h1{
   font-size:75px;
   font-family: Comic Sans MS;
-  display:inline-block;
+  align-items: center;
 }
 .jumbotron{
   color: lightblue;
+
+}
+p{
+  font-size: 20px;
+  font-family: verdana;
 }
 h{
   font-size: 24px;
