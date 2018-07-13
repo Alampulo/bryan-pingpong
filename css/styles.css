@@ -6,6 +6,7 @@ body{
     border: 10px solid blue;
     height:100%;
     width: 100%:
+    background-color:lightgreen;
 }
 h1{
   font-size:75px;
@@ -27,4 +28,9 @@ h{
 }
 li{
   font-size: 25px;
+}
+marquee{
+  font-size: 30px;
+  font-family: cursive;
+  color:indigo;
 }
