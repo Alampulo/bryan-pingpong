@@ -10,6 +10,7 @@ body{
 h1{
   font-size:75px;
   font-family: Comic Sans MS;
+  display:inline-block;
 }
 .jumbotron{
   color: lightblue;
