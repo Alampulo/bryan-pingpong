@@ -34,3 +34,12 @@ marquee{
   font-family: cursive;
   color:indigo;
 }
+img{
+  float:right;
+}
+label{
+  font-size: 25px;
+}
+button{
+  font-size: 40px;
+}
