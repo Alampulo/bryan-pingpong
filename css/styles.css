@@ -1,9 +1,9 @@
-body{
+.container{
   border-color: black;
    box-sizing: border-box;
    box-shadow: blue;
-   padding: 30px;
-    border: 10px solid blue;
+   padding: 0px;
+    border: 150px solid blue;
     height:100%;
     width: 100%:
     background-color:lightgrey;
@@ -12,7 +12,7 @@ h1{
   font-size:75px;
   font-family: Comic Sans MS;
   align-items: center;
-  padding-top: 4px;
+
 }
 .jumbotron{
   color: lightblue;
@@ -37,7 +37,10 @@ marquee{
   color:indigo;
 }
 img{
-  display: top-right;
+  float: left;
+  width: 100%;
+  height: 25%;
+  padding: 0px;
 }
 label{
   font-size: 25px;
@@ -47,4 +50,18 @@ button{
 }
 .form-horizontal{
   font-size: 25px;
+}
+.main {
+    margin-left: 140px;
+    font-size: 28px;
+  padding: 0px 10px
+}
+.sidenav a:hover {
+    color: #064579;
+    padding: 6px 8px 6px 16px;
+   text-decoration: none;
+   font-size: 25px;
+   color: #2196F3;
+   display: block;
+   margin-right: 140px;
 }
