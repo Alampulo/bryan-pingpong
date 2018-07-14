@@ -6,7 +6,7 @@ body{
     border: 10px solid blue;
     height:100%;
     width: 100%:
-    background-color:lightgreen;
+    background-color:lightgrey;
 }
 h1{
   font-size:75px;
@@ -37,7 +37,7 @@ marquee{
   color:indigo;
 }
 img{
-  float:right;
+  display: top-right;
 }
 label{
   font-size: 25px;
